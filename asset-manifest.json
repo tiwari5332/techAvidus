@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/techAvidus/static/css/main.9444e0d5.chunk.css",
+    "main.js": "/techAvidus/static/js/main.3b301970.chunk.js",
+    "main.js.map": "/techAvidus/static/js/main.3b301970.chunk.js.map",
+    "runtime-main.js": "/techAvidus/static/js/runtime-main.d4e79301.js",
+    "runtime-main.js.map": "/techAvidus/static/js/runtime-main.d4e79301.js.map",
+    "static/js/2.deded9d2.chunk.js": "/techAvidus/static/js/2.deded9d2.chunk.js",
+    "static/js/2.deded9d2.chunk.js.map": "/techAvidus/static/js/2.deded9d2.chunk.js.map",
+    "static/js/3.7a3bd464.chunk.js": "/techAvidus/static/js/3.7a3bd464.chunk.js",
+    "static/js/3.7a3bd464.chunk.js.map": "/techAvidus/static/js/3.7a3bd464.chunk.js.map",
+    "index.html": "/techAvidus/index.html",
+    "static/css/main.9444e0d5.chunk.css.map": "/techAvidus/static/css/main.9444e0d5.chunk.css.map",
+    "static/js/2.deded9d2.chunk.js.LICENSE.txt": "/techAvidus/static/js/2.deded9d2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/techAvidus/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e79301.js",
+    "static/js/2.deded9d2.chunk.js",
+    "static/css/main.9444e0d5.chunk.css",
+    "static/js/main.3b301970.chunk.js"
+  ]
+}
